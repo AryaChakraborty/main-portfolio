@@ -2,7 +2,7 @@
 date: '3'
 title: 'Olympics Data Analysis'
 cover: './course-card.png'
-# external: 'https://hermes-io-chat-app.herokuapp.com/'
+external: 'https://aryachakraborty-olympics-data-analysis-arya-app-2v0rz9.streamlit.app/'
 github: 'https://github.com/AryaChakraborty/olympics-data-analysis-arya'
 tech:
   - Streamlit
