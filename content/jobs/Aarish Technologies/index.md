@@ -4,7 +4,7 @@ title: 'AI Developer'
 company: 'Aarish Technologies'
 location: 'Quebec, Canada - Remote'
 range: 'April, 2023 - June, 2023'
-url: 'aarish.ai'
+url: 'https://aarish.ai'
 ---
 
 - Helped develop a Quantized Convolution neural network model and converted that to equivalent C code.
