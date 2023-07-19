@@ -1,9 +1,9 @@
 ---
-date: '2'
+date: '3'
 title: 'ChumlyAI'
 cover: './demo.png'
 github: 'https://github.com/AryaChakraborty/chumly/'
-# external: ''
+external: 'https://www.youtube.com/watch?v=kLO-SlW9QKw&t=26s'
 tech:
   - YAKE
   - Python

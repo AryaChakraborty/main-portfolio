@@ -3,7 +3,7 @@ date: '2022-06-10'
 title: 'Machine Learning Lead'
 company: 'GDSC KGEC'
 location: 'Kalyani, India'
-range: 'June, 2022 - Present'
+range: 'June, 2022 - June, 2023'
 url: 'https://gdsc.community.dev/kalyani-government-engineering-college-kalyani/'
 ---
 

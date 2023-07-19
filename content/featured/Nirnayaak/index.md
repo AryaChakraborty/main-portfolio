@@ -1,8 +1,7 @@
 ---
-date: '1'
+date: '2'
 title: 'Nirnayaak'
 cover: './nirnayaak.jpeg'
-# github: 'https://github.com/sbk2k1/Mnemosyne'
 external: 'https://devfolio.co/projects/nirnayaak-ec65'
 tech:
   - Cohere
