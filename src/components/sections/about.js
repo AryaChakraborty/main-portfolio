@@ -153,13 +153,14 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I had the privilege of working at{' '}
+              <a href="https://aarish.ai/">Aarish Technologies</a>,{' '}
               <a href="https://smollan.com/in/">Smollan India</a>,{' '}
               <a href="https://junoterra.com/">Juno Terra</a> and for many personal projects. I've
               also been to the finals of <b>Smart India Hackathon, 2022</b>.
             </p>
 
             <p>
-              I am also the Machine Learning Lead of{' '}
+              I was also the Machine Learning Lead of{' '}
               <a href="https://gdsc.community.dev/kalyani-government-engineering-college-kalyani/">
                 Google Developer Students Club, KGEC
               </a>{' '}
