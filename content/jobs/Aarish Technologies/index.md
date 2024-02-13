@@ -7,5 +7,5 @@ range: 'April, 2023 - June, 2023'
 url: 'https://aarish.ai'
 ---
 
-- Helped develop a Quantized Convolution neural network model and converted that to equivalent C code.
-- Automated tasks to help, quantize the model in a better manner.
+- I assisted in developing a Quantized Convolutional Neural Network, aiming to optimize storage utilization (space complexity) while automating various tasks involved in the process.
+- I converted a Python PyTorch model of a Convolutional Neural Network to equivalent C code, with the objective of accelerating the computation and making it able to run on every hardware.
