@@ -1,7 +1,7 @@
 ---
 date: '2024-01-02'
 title: 'Cyber Diplomacy Intern'
-company: 'Ministry of External Affairs, India'
+company: 'MEA'
 location: 'New Delhi, India'
 range: 'January, 2024 - March, 2024'
 url: 'https://www.mea.gov.in/'
